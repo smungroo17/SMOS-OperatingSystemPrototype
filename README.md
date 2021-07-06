@@ -2,8 +2,6 @@
 //    Your Name: Saksham Mungroo
 //    Your McGill ID: 260768072
 
-Welcome to COMP 310 / ECSE 427 final project assignment!
-
 SMOS: A Linux-like Operating System
   - Operating System prototype coded in C, mimicking some of the Linux OS functionalities
   - Built a shell interface to interact with the user through commands input
